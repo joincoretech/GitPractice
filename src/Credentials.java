@@ -1,5 +1,3 @@
-package com.collection;
-
 public class Credentials {
 
     String userName="Farhad";

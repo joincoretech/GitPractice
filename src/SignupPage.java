@@ -1,5 +1,3 @@
-package com.collection;
-
 public class SignupPage {
 
     public static void main(String[] args) {
